@@ -24,7 +24,7 @@ export default {
       flex 1
       height .64rem
       line-height .64rem
-      margin-top .12rem
+      // margin-top .12rem
       margin-left  .2rem
       background #ffffff
       border-radius .1rem

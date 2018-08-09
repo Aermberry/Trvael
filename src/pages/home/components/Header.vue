@@ -18,7 +18,7 @@ export default {
     background #00bcd4
     color #ffffff
     .header-left
-      // width .64rem
+      width .64rem
       float left
     .header-input
       flex 1

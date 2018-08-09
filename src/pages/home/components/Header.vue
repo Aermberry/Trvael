@@ -26,7 +26,7 @@ export default {
       line-height .64rem
       margin-top .12rem
       margin-left  .2rem
-      background #ffffff
+      // background #ffffff
       border-radius .1rem
       color #cccccc
     .header-right

@@ -2,16 +2,21 @@
   <div>
   <home-header></home-header>
   <home-swiper></home-swiper>
+  <home-icons></home-icons>
   </div>
 </template>
 <script>
 import HomeHeader from './components/Header'
 import HomeSwiper from './components/Swiper'
+import HomeIcons from './components/icons'
+
 export default {
   name: 'Home',
   components: {
+    /* 这里写成大写，Vue将自动进行关联，组件转换为小写 */
     HomeHeader,
-    HomeSwiper
+    HomeSwiper,
+    HomeIcons
   }
 }
 </script>

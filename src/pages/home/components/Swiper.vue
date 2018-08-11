@@ -39,8 +39,8 @@ export default {
     overflow hidden
     width 100%
     height 0
-    padding-bottom 31.5%
-    /* 当内边距（padding）是一个百分比的时候， 百分比是和本身包含的元素的宽度有关的，同样一定不能为负数 */
+    padding-bottom 26.5%
+    /* 如果值是一个百分比，那这个百分比时相对于其父元素的宽度而言的 */
     background-color #eeeeee
     .swiper-img
       width 100%

@@ -90,8 +90,9 @@ export default {
   padding-bottom: 50%; // 根据父元素的宽度控制固定高度
   // background green
 }
-
-.icon {
+.icons
+  margin-top .1rem
+  .icon {
   position: relative;
   height: 0;
   float: left;
